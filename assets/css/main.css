@@ -197,7 +197,7 @@ body {
   text-align: center;
 }
 .app .container .projects .cards .card .logo {
-  background: var(--background-base-light);
+  background: var(--bg-bloc-light);
   border-radius: 0.26rem 0.26rem 0 0;
   width: 60px;
   margin: auto;
@@ -205,7 +205,7 @@ body {
   padding-top: 4px;
 }
 .app .container .projects .cards .card .title {
-  background: var(--background-base-light);
+  background: var(--bg-bloc-light);
   border-radius: 0 0 0.21rem 0.21rem;
   color: #333;
   padding: 6px;
